@@ -1,0 +1,13 @@
+pandas store data as dataframes.
+every dataframe has rows and columns and therefore has both row and column index.
+each column has different type of values.
+df.head()- first five columns
+df.shape()- size
+df.column()
+df.index()- range
+
+operation on file 
+open read close
+fp = open('abc.txt')
+read write append :r ,w, a This is a new line added to the file.
+This is a new line added to the file.
