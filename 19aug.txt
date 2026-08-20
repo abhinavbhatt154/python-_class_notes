@@ -11,3 +11,5 @@ open read close
 fp = open('abc.txt')
 read write append :r ,w, a This is a new line added to the file.
 This is a new line added to the file.
+Name:abhinav
+course:CSE
